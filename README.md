@@ -1,4 +1,4 @@
-# Project-Gallery
+# Project Gallery
 
 ## 🎨 Computer Vision
 - **Text2Image**: Generate images from textual descriptions.
